@@ -1,0 +1,53 @@
+year,emission_type,sector,value
+2023,Primary,Power,38.7
+2023,Secondary,Industry,17.0
+2023,Secondary,Transport,2.2
+2023,Secondary,Buildings,12.4
+2023,Secondary,Household,6.1
+2023,Secondary,Waste And Water,0.7
+2023,Secondary,Others,0.2
+2023,Primary,Industry,47.3
+2023,Primary,Transport,11.7
+2023,Primary,Buildings,0.8
+2023,Primary,Household,0.4
+2023,Primary,Waste And Water,0.6
+2023,Primary,Others,0.6
+2022,Primary,Power,36.5
+2022,Secondary,Industry,16.1
+2022,Secondary,Transport,2.0
+2022,Secondary,Buildings,11.7
+2022,Secondary,Household,5.8
+2022,Secondary,Waste And Water,0.7
+2022,Secondary,Others,0.3
+2022,Primary,Industry,49.0
+2022,Primary,Transport,12.0
+2022,Primary,Buildings,0.9
+2022,Primary,Household,0.4
+2022,Primary,Waste And Water,0.7
+2022,Primary,Others,0.5
+2021,Primary,Power,39.2
+2021,Secondary,Industry,16.6
+2021,Secondary,Transport,2.2
+2021,Secondary,Buildings,12.6
+2021,Secondary,Household,6.6
+2021,Secondary,Waste And Water,0.8
+2021,Secondary,Others,0.4
+2021,Primary,Industry,44.4
+2021,Primary,Transport,14.2
+2021,Primary,Buildings,0.9
+2021,Primary,Household,0.4
+2021,Primary,Waste And Water,0.6
+2021,Primary,Others,0.2
+2020,Primary,Power,39.8
+2020,Secondary,Industry,16.2
+2020,Secondary,Transport,2.3
+2020,Secondary,Buildings,13.1
+2020,Secondary,Household,7.1
+2020,Secondary,Waste And Water,0.8
+2020,Secondary,Others,0.3
+2020,Primary,Industry,44.4
+2020,Primary,Transport,13.7
+2020,Primary,Buildings,0.8
+2020,Primary,Household,0.5
+2020,Primary,Waste And Water,0.6
+2020,Primary,Others,0.2

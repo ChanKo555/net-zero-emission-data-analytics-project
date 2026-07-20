@@ -1,0 +1,193 @@
+year,category,data_series,value
+2023,Total,Total Greenhouse Gas Emissions,55.5
+2023,Gas Type,Carbon Dioxide (CO2),48.2
+2023,Gas Type,Methane (CH4),0.1
+2023,Gas Type,Nitrous Oxide (N2O),0.5
+2023,Gas Type,Hydrofluorocarbons (HFCs),4.0
+2023,Gas Type,Perfluorocarbons (PFCs),2.1
+2023,Gas Type,Sulphur Hexafluoride (SF6),0.1
+2023,Gas Type,Nitrogen Trifluoride (NF3),0.4
+2022,Total,Total Greenhouse Gas Emissions,58.6
+2022,Gas Type,Carbon Dioxide (CO2),50.4
+2022,Gas Type,Methane (CH4),0.1
+2022,Gas Type,Nitrous Oxide (N2O),0.6
+2022,Gas Type,Hydrofluorocarbons (HFCs),4.2
+2022,Gas Type,Perfluorocarbons (PFCs),2.5
+2022,Gas Type,Sulphur Hexafluoride (SF6),0.2
+2022,Gas Type,Nitrogen Trifluoride (NF3),0.6
+2021,Total,Total Greenhouse Gas Emissions,58.3
+2021,Gas Type,Carbon Dioxide (CO2),51.2
+2021,Gas Type,Methane (CH4),0.1
+2021,Gas Type,Nitrous Oxide (N2O),0.6
+2021,Gas Type,Hydrofluorocarbons (HFCs),3.7
+2021,Gas Type,Perfluorocarbons (PFCs),2.1
+2021,Gas Type,Sulphur Hexafluoride (SF6),0.1
+2021,Gas Type,Nitrogen Trifluoride (NF3),0.5
+2020,Total,Total Greenhouse Gas Emissions,53.9
+2020,Gas Type,Carbon Dioxide (CO2),47.7
+2020,Gas Type,Methane (CH4),0.1
+2020,Gas Type,Nitrous Oxide (N2O),0.6
+2020,Gas Type,Hydrofluorocarbons (HFCs),3.3
+2020,Gas Type,Perfluorocarbons (PFCs),1.6
+2020,Gas Type,Sulphur Hexafluoride (SF6),0.1
+2020,Gas Type,Nitrogen Trifluoride (NF3),0.4
+2019,Total,Total Greenhouse Gas Emissions,55.6
+2019,Gas Type,Carbon Dioxide (CO2),49.7
+2019,Gas Type,Methane (CH4),0.1
+2019,Gas Type,Nitrous Oxide (N2O),0.6
+2019,Gas Type,Hydrofluorocarbons (HFCs),3.1
+2019,Gas Type,Perfluorocarbons (PFCs),1.6
+2019,Gas Type,Sulphur Hexafluoride (SF6),0.1
+2019,Gas Type,Nitrogen Trifluoride (NF3),0.4
+2018,Total,Total Greenhouse Gas Emissions,56.8
+2018,Gas Type,Carbon Dioxide (CO2),51.2
+2018,Gas Type,Methane (CH4),0.1
+2018,Gas Type,Nitrous Oxide (N2O),0.5
+2018,Gas Type,Hydrofluorocarbons (HFCs),2.8
+2018,Gas Type,Perfluorocarbons (PFCs),1.7
+2018,Gas Type,Sulphur Hexafluoride (SF6),0.1
+2018,Gas Type,Nitrogen Trifluoride (NF3),0.4
+2017,Total,Total Greenhouse Gas Emissions,56.1
+2017,Gas Type,Carbon Dioxide (CO2),50.9
+2017,Gas Type,Methane (CH4),0.1
+2017,Gas Type,Nitrous Oxide (N2O),0.4
+2017,Gas Type,Hydrofluorocarbons (HFCs),2.4
+2017,Gas Type,Perfluorocarbons (PFCs),1.7
+2017,Gas Type,Sulphur Hexafluoride (SF6),0.1
+2017,Gas Type,Nitrogen Trifluoride (NF3),0.4
+2016,Total,Total Greenhouse Gas Emissions,54.1
+2016,Gas Type,Carbon Dioxide (CO2),49.8
+2016,Gas Type,Methane (CH4),0.1
+2016,Gas Type,Nitrous Oxide (N2O),0.3
+2016,Gas Type,Hydrofluorocarbons (HFCs),2.1
+2016,Gas Type,Perfluorocarbons (PFCs),1.6
+2016,Gas Type,Sulphur Hexafluoride (SF6),0.1
+2016,Gas Type,Nitrogen Trifluoride (NF3),0.2
+2015,Total,Total Greenhouse Gas Emissions,54.4
+2015,Gas Type,Carbon Dioxide (CO2),50.2
+2015,Gas Type,Methane (CH4),0.1
+2015,Gas Type,Nitrous Oxide (N2O),0.3
+2015,Gas Type,Hydrofluorocarbons (HFCs),1.9
+2015,Gas Type,Perfluorocarbons (PFCs),1.6
+2015,Gas Type,Sulphur Hexafluoride (SF6),0.1
+2015,Gas Type,Nitrogen Trifluoride (NF3),0.2
+2014,Total,Total Greenhouse Gas Emissions,52.6
+2014,Gas Type,Carbon Dioxide (CO2),48.5
+2014,Gas Type,Methane (CH4),0.1
+2014,Gas Type,Nitrous Oxide (N2O),0.3
+2014,Gas Type,Hydrofluorocarbons (HFCs),1.8
+2014,Gas Type,Perfluorocarbons (PFCs),1.5
+2014,Gas Type,Sulphur Hexafluoride (SF6),0.2
+2014,Gas Type,Nitrogen Trifluoride (NF3),0.2
+2013,Total,Total Greenhouse Gas Emissions,51.6
+2013,Gas Type,Carbon Dioxide (CO2),47.8
+2013,Gas Type,Methane (CH4),0.1
+2013,Gas Type,Nitrous Oxide (N2O),0.3
+2013,Gas Type,Hydrofluorocarbons (HFCs),1.6
+2013,Gas Type,Perfluorocarbons (PFCs),1.5
+2013,Gas Type,Sulphur Hexafluoride (SF6),0.1
+2013,Gas Type,Nitrogen Trifluoride (NF3),0.1
+2012,Total,Total Greenhouse Gas Emissions,51.3
+2012,Gas Type,Carbon Dioxide (CO2),47.8
+2012,Gas Type,Methane (CH4),0.1
+2012,Gas Type,Nitrous Oxide (N2O),0.3
+2012,Gas Type,Hydrofluorocarbons (HFCs),1.4
+2012,Gas Type,Perfluorocarbons (PFCs),1.4
+2012,Gas Type,Sulphur Hexafluoride (SF6),0.1
+2012,Gas Type,Nitrogen Trifluoride (NF3),0.1
+2011,Total,Total Greenhouse Gas Emissions,52.1
+2011,Gas Type,Carbon Dioxide (CO2),48.7
+2011,Gas Type,Methane (CH4),0.1
+2011,Gas Type,Nitrous Oxide (N2O),0.3
+2011,Gas Type,Hydrofluorocarbons (HFCs),1.3
+2011,Gas Type,Perfluorocarbons (PFCs),1.5
+2011,Gas Type,Sulphur Hexafluoride (SF6),0.1
+2011,Gas Type,Nitrogen Trifluoride (NF3),0.1
+2010,Total,Total Greenhouse Gas Emissions,48.9
+2010,Gas Type,Carbon Dioxide (CO2),45.8
+2010,Gas Type,Methane (CH4),0.1
+2010,Gas Type,Nitrous Oxide (N2O),0.3
+2010,Gas Type,Hydrofluorocarbons (HFCs),1.1
+2010,Gas Type,Perfluorocarbons (PFCs),1.4
+2010,Gas Type,Sulphur Hexafluoride (SF6),0.1
+2010,Gas Type,Nitrogen Trifluoride (NF3),0.1
+2009,Total,Total Greenhouse Gas Emissions,44.2
+2009,Gas Type,Carbon Dioxide (CO2),41.9
+2009,Gas Type,Methane (CH4),0.1
+2009,Gas Type,Nitrous Oxide (N2O),0.3
+2009,Gas Type,Hydrofluorocarbons (HFCs),1.0
+2009,Gas Type,Perfluorocarbons (PFCs),0.9
+2009,Gas Type,Sulphur Hexafluoride (SF6),0.0
+2009,Gas Type,Nitrogen Trifluoride (NF3),0.1
+2008,Total,Total Greenhouse Gas Emissions,44.1
+2008,Gas Type,Carbon Dioxide (CO2),42.0
+2008,Gas Type,Methane (CH4),0.2
+2008,Gas Type,Nitrous Oxide (N2O),0.3
+2008,Gas Type,Hydrofluorocarbons (HFCs),0.8
+2008,Gas Type,Perfluorocarbons (PFCs),0.8
+2008,Gas Type,Sulphur Hexafluoride (SF6),0.0
+2008,Gas Type,Nitrogen Trifluoride (NF3),0.0
+2007,Total,Total Greenhouse Gas Emissions,44.5
+2007,Gas Type,Carbon Dioxide (CO2),42.6
+2007,Gas Type,Methane (CH4),0.2
+2007,Gas Type,Nitrous Oxide (N2O),0.3
+2007,Gas Type,Hydrofluorocarbons (HFCs),0.7
+2007,Gas Type,Perfluorocarbons (PFCs),0.8
+2007,Gas Type,Sulphur Hexafluoride (SF6),0.0
+2007,Gas Type,Nitrogen Trifluoride (NF3),0.0
+2006,Total,Total Greenhouse Gas Emissions,44.6
+2006,Gas Type,Carbon Dioxide (CO2),42.0
+2006,Gas Type,Methane (CH4),0.2
+2006,Gas Type,Nitrous Oxide (N2O),0.3
+2006,Gas Type,Hydrofluorocarbons (HFCs),0.6
+2006,Gas Type,Perfluorocarbons (PFCs),1.3
+2006,Gas Type,Sulphur Hexafluoride (SF6),0.1
+2006,Gas Type,Nitrogen Trifluoride (NF3),0.3
+2005,Total,Total Greenhouse Gas Emissions,43.1
+2005,Gas Type,Carbon Dioxide (CO2),40.7
+2005,Gas Type,Methane (CH4),0.1
+2005,Gas Type,Nitrous Oxide (N2O),0.3
+2005,Gas Type,Hydrofluorocarbons (HFCs),0.5
+2005,Gas Type,Perfluorocarbons (PFCs),1.2
+2005,Gas Type,Sulphur Hexafluoride (SF6),0.1
+2005,Gas Type,Nitrogen Trifluoride (NF3),0.2
+2004,Total,Total Greenhouse Gas Emissions,43.9
+2004,Gas Type,Carbon Dioxide (CO2),41.8
+2004,Gas Type,Methane (CH4),0.1
+2004,Gas Type,Nitrous Oxide (N2O),0.3
+2004,Gas Type,Hydrofluorocarbons (HFCs),0.4
+2004,Gas Type,Perfluorocarbons (PFCs),1.0
+2004,Gas Type,Sulphur Hexafluoride (SF6),0.0
+2004,Gas Type,Nitrogen Trifluoride (NF3),0.2
+2003,Total,Total Greenhouse Gas Emissions,42.3
+2003,Gas Type,Carbon Dioxide (CO2),40.3
+2003,Gas Type,Methane (CH4),0.2
+2003,Gas Type,Nitrous Oxide (N2O),0.3
+2003,Gas Type,Hydrofluorocarbons (HFCs),0.3
+2003,Gas Type,Perfluorocarbons (PFCs),1.0
+2003,Gas Type,Sulphur Hexafluoride (SF6),0.0
+2003,Gas Type,Nitrogen Trifluoride (NF3),0.2
+2002,Total,Total Greenhouse Gas Emissions,42.3
+2002,Gas Type,Carbon Dioxide (CO2),40.8
+2002,Gas Type,Methane (CH4),0.1
+2002,Gas Type,Nitrous Oxide (N2O),0.3
+2002,Gas Type,Hydrofluorocarbons (HFCs),0.3
+2002,Gas Type,Perfluorocarbons (PFCs),0.7
+2002,Gas Type,Sulphur Hexafluoride (SF6),0.0
+2002,Gas Type,Nitrogen Trifluoride (NF3),0.1
+2001,Total,Total Greenhouse Gas Emissions,40.6
+2001,Gas Type,Carbon Dioxide (CO2),39.3
+2001,Gas Type,Methane (CH4),0.1
+2001,Gas Type,Nitrous Oxide (N2O),0.3
+2001,Gas Type,Hydrofluorocarbons (HFCs),0.2
+2001,Gas Type,Perfluorocarbons (PFCs),0.6
+2001,Gas Type,Sulphur Hexafluoride (SF6),0.0
+2001,Gas Type,Nitrogen Trifluoride (NF3),0.0
+2000,Total,Total Greenhouse Gas Emissions,39.7
+2000,Gas Type,Carbon Dioxide (CO2),38.3
+2000,Gas Type,Methane (CH4),0.1
+2000,Gas Type,Nitrous Oxide (N2O),0.3
+2000,Gas Type,Hydrofluorocarbons (HFCs),0.1
+2000,Gas Type,Perfluorocarbons (PFCs),0.8
+2000,Gas Type,Sulphur Hexafluoride (SF6),0.0
+2000,Gas Type,Nitrogen Trifluoride (NF3),0.1

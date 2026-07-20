@@ -1,0 +1,392 @@
+year,category,data_series,value
+2025,Total,Electricity Generation,60410.4
+2024,Total,Electricity Generation,59616.1
+2024,Total,Electricity Consumption,57639.7
+2024,Consumption Sector,Industrial-Related,22704.0
+2024,Consumption Sector,Manufacturing,20630.5
+2024,Consumption Sector,Construction,440.0
+2024,Consumption Sector,Utilities,1569.4
+2024,Consumption Sector,Other Industrial-Related,64.1
+2024,Consumption Sector,Commerce And Service-Related,23195.0
+2024,Consumption Sector,Wholesale And Retail Trade,2272.5
+2024,Consumption Sector,Accommodation And Food Services,1650.4
+2024,Consumption Sector,Information And Communications,6072.0
+2024,Consumption Sector,Financial And Insurance Activities,2411.1
+2024,Consumption Sector,Real Estate Activities,4719.0
+2024,Consumption Sector,"Professional, Scientific & Technical, Administration & Support Activities",1105.2
+2024,Consumption Sector,Other Commerce And Service-Related,4964.8
+2024,Consumption Sector,Transport-Related,3199.8
+2024,Consumption Sector,Households,8422.3
+2024,Consumption Sector,Others,118.6
+2023,Total,Electricity Generation,57384.2
+2023,Total,Electricity Consumption,55426.4
+2023,Consumption Sector,Industrial-Related,22103.0
+2023,Consumption Sector,Manufacturing,20171.2
+2023,Consumption Sector,Construction,421.6
+2023,Consumption Sector,Utilities,1451.2
+2023,Consumption Sector,Other Industrial-Related,59.0
+2023,Consumption Sector,Commerce And Service-Related,22092.7
+2023,Consumption Sector,Wholesale And Retail Trade,2221.9
+2023,Consumption Sector,Accommodation And Food Services,1587.4
+2023,Consumption Sector,Information And Communications,5408.5
+2023,Consumption Sector,Financial And Insurance Activities,2376.0
+2023,Consumption Sector,Real Estate Activities,4728.5
+2023,Consumption Sector,"Professional, Scientific & Technical, Administration & Support Activities",974.3
+2023,Consumption Sector,Other Commerce And Service-Related,4796.1
+2023,Consumption Sector,Transport-Related,3030.2
+2023,Consumption Sector,Households,8042.3
+2023,Consumption Sector,Others,158.1
+2022,Total,Electricity Generation,57113.7
+2022,Total,Electricity Consumption,54910.6
+2022,Consumption Sector,Industrial-Related,22693.9
+2022,Consumption Sector,Manufacturing,20682.1
+2022,Consumption Sector,Construction,464.5
+2022,Consumption Sector,Utilities,1490.7
+2022,Consumption Sector,Other Industrial-Related,56.6
+2022,Consumption Sector,Commerce And Service-Related,21187.3
+2022,Consumption Sector,Wholesale And Retail Trade,2253.5
+2022,Consumption Sector,Accommodation And Food Services,1441.5
+2022,Consumption Sector,Information And Communications,4852.4
+2022,Consumption Sector,Financial And Insurance Activities,2341.7
+2022,Consumption Sector,Real Estate Activities,4714.6
+2022,Consumption Sector,"Professional, Scientific & Technical, Administration & Support Activities",949.4
+2022,Consumption Sector,Other Commerce And Service-Related,4634.2
+2022,Consumption Sector,Transport-Related,2899.7
+2022,Consumption Sector,Households,7936.7
+2022,Consumption Sector,Others,193.0
+2021,Total,Electricity Generation,55788.3
+2021,Total,Electricity Consumption,53495.6
+2021,Consumption Sector,Industrial-Related,22293.1
+2021,Consumption Sector,Manufacturing,20284.8
+2021,Consumption Sector,Construction,472.0
+2021,Consumption Sector,Utilities,1482.1
+2021,Consumption Sector,Other Industrial-Related,54.2
+2021,Consumption Sector,Commerce And Service-Related,19837.1
+2021,Consumption Sector,Wholesale And Retail Trade,2226.8
+2021,Consumption Sector,Accommodation And Food Services,1328.1
+2021,Consumption Sector,Information And Communications,4029.0
+2021,Consumption Sector,Financial And Insurance Activities,2271.9
+2021,Consumption Sector,Real Estate Activities,4616.3
+2021,Consumption Sector,"Professional, Scientific & Technical, Administration & Support Activities",823.1
+2021,Consumption Sector,Other Commerce And Service-Related,4541.9
+2021,Consumption Sector,Transport-Related,2844.7
+2021,Consumption Sector,Households,8290.0
+2021,Consumption Sector,Others,230.8
+2020,Total,Electricity Generation,53071.6
+2020,Total,Electricity Consumption,50789.7
+2020,Consumption Sector,Industrial-Related,20978.9
+2020,Consumption Sector,Manufacturing,19121.3
+2020,Consumption Sector,Construction,387.0
+2020,Consumption Sector,Utilities,1418.7
+2020,Consumption Sector,Other Industrial-Related,51.9
+2020,Consumption Sector,Commerce And Service-Related,18517.6
+2020,Consumption Sector,Wholesale And Retail Trade,2180.9
+2020,Consumption Sector,Accommodation And Food Services,1289.1
+2020,Consumption Sector,Information And Communications,3086.2
+2020,Consumption Sector,Financial And Insurance Activities,2152.4
+2020,Consumption Sector,Real Estate Activities,4546.7
+2020,Consumption Sector,"Professional, Scientific & Technical, Administration & Support Activities",798.2
+2020,Consumption Sector,Other Commerce And Service-Related,4464.2
+2020,Consumption Sector,Transport-Related,2809.2
+2020,Consumption Sector,Households,8254.6
+2020,Consumption Sector,Others,229.3
+2019,Total,Electricity Generation,54142.3
+2019,Total,Electricity Consumption,51736.7
+2019,Consumption Sector,Industrial-Related,21463.9
+2019,Consumption Sector,Manufacturing,19439.4
+2019,Consumption Sector,Construction,397.1
+2019,Consumption Sector,Utilities,1574.5
+2019,Consumption Sector,Other Industrial-Related,53.0
+2019,Consumption Sector,Commerce And Service-Related,19318.9
+2019,Consumption Sector,Wholesale And Retail Trade,2265.4
+2019,Consumption Sector,Accommodation And Food Services,1523.3
+2019,Consumption Sector,Information And Communications,2494.8
+2019,Consumption Sector,Financial And Insurance Activities,2380.7
+2019,Consumption Sector,Real Estate Activities,4864.7
+2019,Consumption Sector,"Professional, Scientific & Technical, Administration & Support Activities",805.3
+2019,Consumption Sector,Other Commerce And Service-Related,4984.6
+2019,Consumption Sector,Transport-Related,3019.3
+2019,Consumption Sector,Households,7688.0
+2019,Consumption Sector,Others,246.8
+2018,Total,Electricity Generation,52904.8
+2018,Total,Electricity Consumption,50466.9
+2018,Consumption Sector,Industrial-Related,21441.8
+2018,Consumption Sector,Manufacturing,19441.0
+2018,Consumption Sector,Construction,431.5
+2018,Consumption Sector,Utilities,1522.0
+2018,Consumption Sector,Other Industrial-Related,47.3
+2018,Consumption Sector,Commerce And Service-Related,18582.3
+2018,Consumption Sector,Wholesale And Retail Trade,2316.5
+2018,Consumption Sector,Accommodation And Food Services,1465.2
+2018,Consumption Sector,Information And Communications,2229.9
+2018,Consumption Sector,Financial And Insurance Activities,2321.1
+2018,Consumption Sector,Real Estate Activities,4672.4
+2018,Consumption Sector,"Professional, Scientific & Technical, Administration & Support Activities",720.2
+2018,Consumption Sector,Other Commerce And Service-Related,4857.1
+2018,Consumption Sector,Transport-Related,2947.0
+2018,Consumption Sector,Households,7237.4
+2018,Consumption Sector,Others,258.4
+2017,Total,Electricity Generation,52225.8
+2017,Total,Electricity Consumption,49643.7
+2017,Consumption Sector,Industrial-Related,21240.6
+2017,Consumption Sector,Manufacturing,19306.8
+2017,Consumption Sector,Construction,485.5
+2017,Consumption Sector,Utilities,1402.1
+2017,Consumption Sector,Other Industrial-Related,46.2
+2017,Consumption Sector,Commerce And Service-Related,18059.9
+2017,Consumption Sector,Wholesale And Retail Trade,2282.5
+2017,Consumption Sector,Accommodation And Food Services,1406.2
+2017,Consumption Sector,Information And Communications,1862.5
+2017,Consumption Sector,Financial And Insurance Activities,2408.4
+2017,Consumption Sector,Real Estate Activities,4668.7
+2017,Consumption Sector,"Professional, Scientific & Technical, Administration & Support Activities",688.4
+2017,Consumption Sector,Other Commerce And Service-Related,4743.2
+2017,Consumption Sector,Transport-Related,2771.1
+2017,Consumption Sector,Households,7295.6
+2017,Consumption Sector,Others,276.5
+2016,Total,Electricity Generation,51586.6
+2016,Total,Electricity Consumption,48626.6
+2016,Consumption Sector,Industrial-Related,20418.5
+2016,Consumption Sector,Manufacturing,18365.3
+2016,Consumption Sector,Construction,554.2
+2016,Consumption Sector,Utilities,1453.3
+2016,Consumption Sector,Other Industrial-Related,45.7
+2016,Consumption Sector,Commerce And Service-Related,17699.5
+2016,Consumption Sector,Wholesale And Retail Trade,2073.3
+2016,Consumption Sector,Accommodation And Food Services,1453.1
+2016,Consumption Sector,Information And Communications,1851.2
+2016,Consumption Sector,Financial And Insurance Activities,2361.1
+2016,Consumption Sector,Real Estate Activities,4496.4
+2016,Consumption Sector,"Professional, Scientific & Technical, Administration & Support Activities",681.3
+2016,Consumption Sector,Other Commerce And Service-Related,4783.2
+2016,Consumption Sector,Transport-Related,2639.0
+2016,Consumption Sector,Households,7589.5
+2016,Consumption Sector,Others,280.0
+2015,Total,Electricity Generation,50271.6
+2015,Total,Electricity Consumption,47513.9
+2015,Consumption Sector,Industrial-Related,20087.8
+2015,Consumption Sector,Manufacturing,18274.8
+2015,Consumption Sector,Construction,533.8
+2015,Consumption Sector,Utilities,1237.2
+2015,Consumption Sector,Other Industrial-Related,42.0
+2015,Consumption Sector,Commerce And Service-Related,17481.2
+2015,Consumption Sector,Wholesale And Retail Trade,2107.4
+2015,Consumption Sector,Accommodation And Food Services,1350.2
+2015,Consumption Sector,Information And Communications,1430.1
+2015,Consumption Sector,Financial And Insurance Activities,2718.1
+2015,Consumption Sector,Real Estate Activities,4454.6
+2015,Consumption Sector,"Professional, Scientific & Technical, Administration & Support Activities",710.3
+2015,Consumption Sector,Other Commerce And Service-Related,4710.5
+2015,Consumption Sector,Transport-Related,2444.8
+2015,Consumption Sector,Households,7220.9
+2015,Consumption Sector,Others,279.1
+2014,Total,Electricity Generation,49309.7
+2014,Total,Electricity Consumption,46403.0
+2014,Consumption Sector,Industrial-Related,19753.1
+2014,Consumption Sector,Manufacturing,17986.4
+2014,Consumption Sector,Construction,529.4
+2014,Consumption Sector,Utilities,1198.2
+2014,Consumption Sector,Other Industrial-Related,39.1
+2014,Consumption Sector,Commerce And Service-Related,17046.7
+2014,Consumption Sector,Wholesale And Retail Trade,2020.5
+2014,Consumption Sector,Accommodation And Food Services,1332.3
+2014,Consumption Sector,Information And Communications,1298.2
+2014,Consumption Sector,Financial And Insurance Activities,2574.1
+2014,Consumption Sector,Real Estate Activities,4485.7
+2014,Consumption Sector,"Professional, Scientific & Technical, Administration & Support Activities",677.4
+2014,Consumption Sector,Other Commerce And Service-Related,4658.6
+2014,Consumption Sector,Transport-Related,2441.0
+2014,Consumption Sector,Households,6924.4
+2014,Consumption Sector,Others,237.7
+2013,Total,Electricity Generation,47963.5
+2013,Total,Electricity Consumption,44948.8
+2013,Consumption Sector,Industrial-Related,18842.8
+2013,Consumption Sector,Manufacturing,17234.5
+2013,Consumption Sector,Construction,493.1
+2013,Consumption Sector,Utilities,1075.1
+2013,Consumption Sector,Other Industrial-Related,40.0
+2013,Consumption Sector,Commerce And Service-Related,16718.7
+2013,Consumption Sector,Wholesale And Retail Trade,1967.1
+2013,Consumption Sector,Accommodation And Food Services,1326.6
+2013,Consumption Sector,Information And Communications,1153.0
+2013,Consumption Sector,Financial And Insurance Activities,2257.9
+2013,Consumption Sector,Real Estate Activities,4532.4
+2013,Consumption Sector,"Professional, Scientific & Technical, Administration & Support Activities",928.9
+2013,Consumption Sector,Other Commerce And Service-Related,4552.8
+2013,Consumption Sector,Transport-Related,2369.1
+2013,Consumption Sector,Households,6754.9
+2013,Consumption Sector,Others,263.4
+2012,Total,Electricity Generation,46936.2
+2012,Total,Electricity Consumption,44200.7
+2012,Consumption Sector,Industrial-Related,18572.5
+2012,Consumption Sector,Manufacturing,17109.2
+2012,Consumption Sector,Construction,446.5
+2012,Consumption Sector,Utilities,979.3
+2012,Consumption Sector,Other Industrial-Related,37.5
+2012,Consumption Sector,Commerce And Service-Related,16366.1
+2012,Consumption Sector,Wholesale And Retail Trade,1909.4
+2012,Consumption Sector,Accommodation And Food Services,1275.1
+2012,Consumption Sector,Information And Communications,1088.2
+2012,Consumption Sector,Financial And Insurance Activities,2204.2
+2012,Consumption Sector,Real Estate Activities,4522.6
+2012,Consumption Sector,"Professional, Scientific & Technical, Administration & Support Activities",927.0
+2012,Consumption Sector,Other Commerce And Service-Related,4439.6
+2012,Consumption Sector,Transport-Related,2328.6
+2012,Consumption Sector,Households,6629.5
+2012,Consumption Sector,Others,304.0
+2011,Total,Electricity Generation,45999.4
+2011,Total,Electricity Consumption,43007.1
+2011,Consumption Sector,Industrial-Related,18077.5
+2011,Consumption Sector,Manufacturing,16749.6
+2011,Consumption Sector,Construction,365.1
+2011,Consumption Sector,Utilities,929.2
+2011,Consumption Sector,Other Industrial-Related,33.6
+2011,Consumption Sector,Commerce And Service-Related,15876.3
+2011,Consumption Sector,Wholesale And Retail Trade,1898.8
+2011,Consumption Sector,Accommodation And Food Services,1251.4
+2011,Consumption Sector,Information And Communications,992.5
+2011,Consumption Sector,Financial And Insurance Activities,2003.2
+2011,Consumption Sector,Real Estate Activities,4454.7
+2011,Consumption Sector,"Professional, Scientific & Technical, Administration & Support Activities",930.3
+2011,Consumption Sector,Other Commerce And Service-Related,4345.5
+2011,Consumption Sector,Transport-Related,2224.2
+2011,Consumption Sector,Households,6482.7
+2011,Consumption Sector,Others,346.5
+2010,Total,Electricity Generation,45366.5
+2010,Total,Electricity Consumption,42251.8
+2010,Consumption Sector,Industrial-Related,17662.6
+2010,Consumption Sector,Manufacturing,16448.0
+2010,Consumption Sector,Construction,337.8
+2010,Consumption Sector,Utilities,843.4
+2010,Consumption Sector,Other Industrial-Related,33.3
+2010,Consumption Sector,Commerce And Service-Related,15469.7
+2010,Consumption Sector,Wholesale And Retail Trade,1923.0
+2010,Consumption Sector,Accommodation And Food Services,1219.6
+2010,Consumption Sector,Information And Communications,925.5
+2010,Consumption Sector,Financial And Insurance Activities,1927.0
+2010,Consumption Sector,Real Estate Activities,4346.2
+2010,Consumption Sector,"Professional, Scientific & Technical, Administration & Support Activities",885.8
+2010,Consumption Sector,Other Commerce And Service-Related,4242.7
+2010,Consumption Sector,Transport-Related,2098.7
+2010,Consumption Sector,Households,6636.0
+2010,Consumption Sector,Others,384.8
+2009,Total,Electricity Generation,41800.6
+2009,Total,Electricity Consumption,38822.9
+2009,Consumption Sector,Industrial-Related,15570.3
+2009,Consumption Sector,Manufacturing,14539.7
+2009,Consumption Sector,Construction,308.3
+2009,Consumption Sector,Utilities,691.9
+2009,Consumption Sector,Other Industrial-Related,30.4
+2009,Consumption Sector,Commerce And Service-Related,14800.1
+2009,Consumption Sector,Wholesale And Retail Trade,1821.4
+2009,Consumption Sector,Accommodation And Food Services,1169.2
+2009,Consumption Sector,Information And Communications,866.0
+2009,Consumption Sector,Financial And Insurance Activities,1865.4
+2009,Consumption Sector,Real Estate Activities,4050.8
+2009,Consumption Sector,"Professional, Scientific & Technical, Administration & Support Activities",778.4
+2009,Consumption Sector,Other Commerce And Service-Related,4248.8
+2009,Consumption Sector,Transport-Related,1607.8
+2009,Consumption Sector,Households,6430.8
+2009,Consumption Sector,Others,413.9
+2008,Total,Electricity Generation,41669.6
+2008,Total,Electricity Consumption,38986.9
+2008,Consumption Sector,Industrial-Related,16030.9
+2008,Consumption Sector,Manufacturing,15032.7
+2008,Consumption Sector,Construction,300.9
+2008,Consumption Sector,Utilities,668.4
+2008,Consumption Sector,Other Industrial-Related,29.0
+2008,Consumption Sector,Commerce And Service-Related,15004.6
+2008,Consumption Sector,Wholesale And Retail Trade,1924.7
+2008,Consumption Sector,Accommodation And Food Services,1171.7
+2008,Consumption Sector,Information And Communications,844.5
+2008,Consumption Sector,Financial And Insurance Activities,2014.9
+2008,Consumption Sector,Real Estate Activities,3931.2
+2008,Consumption Sector,"Professional, Scientific & Technical, Administration & Support Activities",842.0
+2008,Consumption Sector,Other Commerce And Service-Related,4275.7
+2008,Consumption Sector,Transport-Related,1399.8
+2008,Consumption Sector,Households,6094.0
+2008,Consumption Sector,Others,457.6
+2007,Total,Electricity Generation,41134.4
+2007,Total,Electricity Consumption,38304.9
+2007,Consumption Sector,Industrial-Related,15819.0
+2007,Consumption Sector,Manufacturing,14943.2
+2007,Consumption Sector,Construction,279.1
+2007,Consumption Sector,Utilities,569.2
+2007,Consumption Sector,Other Industrial-Related,27.5
+2007,Consumption Sector,Commerce And Service-Related,14520.6
+2007,Consumption Sector,Wholesale And Retail Trade,1891.9
+2007,Consumption Sector,Accommodation And Food Services,1131.5
+2007,Consumption Sector,Information And Communications,761.2
+2007,Consumption Sector,Financial And Insurance Activities,2014.6
+2007,Consumption Sector,Real Estate Activities,3810.0
+2007,Consumption Sector,"Professional, Scientific & Technical, Administration & Support Activities",834.2
+2007,Consumption Sector,Other Commerce And Service-Related,4077.2
+2007,Consumption Sector,Transport-Related,1300.2
+2007,Consumption Sector,Households,6163.7
+2007,Consumption Sector,Others,501.5
+2006,Total,Electricity Generation,39480.1
+2006,Total,Electricity Consumption,36801.8
+2006,Consumption Sector,Industrial-Related,15115.4
+2006,Consumption Sector,Manufacturing,14397.2
+2006,Consumption Sector,Construction,250.5
+2006,Consumption Sector,Utilities,441.8
+2006,Consumption Sector,Other Industrial-Related,25.9
+2006,Consumption Sector,Commerce And Service-Related,13785.7
+2006,Consumption Sector,Wholesale And Retail Trade,1977.2
+2006,Consumption Sector,Accommodation And Food Services,1087.0
+2006,Consumption Sector,Information And Communications,708.7
+2006,Consumption Sector,Financial And Insurance Activities,1659.7
+2006,Consumption Sector,Real Estate Activities,3780.8
+2006,Consumption Sector,"Professional, Scientific & Technical, Administration & Support Activities",740.5
+2006,Consumption Sector,Other Commerce And Service-Related,3831.8
+2006,Consumption Sector,Transport-Related,1245.4
+2006,Consumption Sector,Households,6109.1
+2006,Consumption Sector,Others,546.2
+2005,Total,Electricity Generation,38212.7
+2005,Total,Electricity Consumption,35489.3
+2005,Consumption Sector,Industrial-Related,14509.0
+2005,Consumption Sector,Manufacturing,13836.1
+2005,Consumption Sector,Construction,234.8
+2005,Consumption Sector,Utilities,411.0
+2005,Consumption Sector,Other Industrial-Related,27.2
+2005,Consumption Sector,Commerce And Service-Related,13075.6
+2005,Consumption Sector,Wholesale And Retail Trade,2109.8
+2005,Consumption Sector,Accommodation And Food Services,1031.3
+2005,Consumption Sector,Information And Communications,667.2
+2005,Consumption Sector,Financial And Insurance Activities,1291.9
+2005,Consumption Sector,Real Estate Activities,3712.4
+2005,Consumption Sector,"Professional, Scientific & Technical, Administration & Support Activities",650.2
+2005,Consumption Sector,Other Commerce And Service-Related,3612.7
+2005,Consumption Sector,Transport-Related,1200.0
+2005,Consumption Sector,Households,6092.5
+2005,Consumption Sector,Others,612.1
+2004,Total,Electricity Generation,36809.5
+2003,Total,Electricity Generation,35281.5
+2002,Total,Electricity Generation,34664.5
+2001,Total,Electricity Generation,33061.0
+2000,Total,Electricity Generation,31665.0
+1999,Total,Electricity Generation,29520.1
+1998,Total,Electricity Generation,28374.8
+1997,Total,Electricity Generation,26709.4
+1996,Total,Electricity Generation,23909.4
+1995,Total,Electricity Generation,22057.4
+1994,Total,Electricity Generation,20675.4
+1993,Total,Electricity Generation,18962.4
+1992,Total,Electricity Generation,17543.1
+1991,Total,Electricity Generation,16596.6
+1990,Total,Electricity Generation,15617.6
+1989,Total,Electricity Generation,14038.9
+1988,Total,Electricity Generation,13017.5
+1987,Total,Electricity Generation,11813.8
+1986,Total,Electricity Generation,10576.5
+1985,Total,Electricity Generation,9876.3
+1984,Total,Electricity Generation,9420.7
+1983,Total,Electricity Generation,8625.9
+1982,Total,Electricity Generation,7859.5
+1981,Total,Electricity Generation,7441.9
+1980,Total,Electricity Generation,6940.5
+1979,Total,Electricity Generation,6447.8
+1978,Total,Electricity Generation,5897.9
+1977,Total,Electricity Generation,5114.7
+1976,Total,Electricity Generation,4604.9
+1975,Total,Electricity Generation,4175.7
