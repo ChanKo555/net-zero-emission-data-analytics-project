@@ -115,6 +115,8 @@ Examines Singapore's overall greenhouse gas emissions, including:
 * Emissions by gas type
 * Latest emissions and YoY changes
 
+![GHG Emission Overview](dashboard_screenshots/dashboard_1.png)
+
 **Key finding:** Singapore's GHG emissions show an overall upward trajectory from 2000–2023, reaching **55.5 MtCO₂e in 2023**. Industry and Power are among the largest contributors, while CO₂ accounts for the majority of emissions.
 
 ---
@@ -127,6 +129,8 @@ Examines energy-related factors that may influence Singapore's emissions traject
 * Electricity consumption trend
 * Electricity consumption by sector
 * Fuel mix for electricity generation
+
+![Energy Factors Influencing Emissions](dashboard_screenshots/dashboard_2.png)
 
 **Key finding:** Renewable energy adoption has increased over time but remains relatively small at **1.27% in 2023**. At the same time, electricity consumption has increased substantially, while natural gas continues to dominate electricity generation.
 
@@ -145,9 +149,13 @@ The dashboard uses historical-trend forecasting to provide an indication of wher
 | **2030** |    60 MtCO₂e |              64.97 MtCO₂e |  +4.97 MtCO₂e |
 | **2035** | 47.5 MtCO₂e  |              69.19 MtCO₂e | +21.69 MtCO₂e |
 
-* The 2035 target is expressed as a range of **45–50 MtCO₂e**. The midpoint of **47.5 MtCO₂e** is used for comparison.
+* The 2030 target is stated as **“around 60 MtCO₂e”**. For the purpose of this analysis, **60 MtCO₂e** is used as the target value for comparison.
+* The 2035 target is expressed as a range of **45–50 MtCO₂e**. The midpoint of **47.5 MtCO₂e** is used as the target value for comparison.
+
 
 > **Important:** These forecasts are based solely on historical emissions patterns and do not account for future policy, technological, or economic changes.
+
+![Net-Zero Progress](dashboard_screenshots/dashboard_3.png)
 
 ---
 
